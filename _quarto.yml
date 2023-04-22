@@ -47,6 +47,8 @@ website:
         text: Acknowledgements
       - href: content/ecology.qmd
         text: Ecology
+      - href: content/evolution.qmd
+        text: Evolution
 
 format:
   html:

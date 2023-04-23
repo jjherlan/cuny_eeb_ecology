@@ -14,7 +14,41 @@ require(tidyverse)
 require(car)
 ```
 
-::: incremental
+### Offspring sizes vary within populations but reasons are unclear
+
+
+
+------------------------------------------------------------------------
+
+## Slide with a pause
+
+content before the pause
+
+. . .
+
+content after the pause
+
+------------------------------------------------------------------------
+
+## Life-history theory 
+
+Relationship between offspring size and performance may persist across generations
+
+. . .
+
+Focal point of the **larger offspring** vs the *smaller offspring*
+
+- More parental resources
+- Higher survival
+- Higher growth
+- Higher reproduction
+
+. . . 
+
+No explanation for variation in offspring size within populations of the same species.
+
+------------------------------------------------------------------------
+
 ### Offspring sizes vary within populations but reasons are unclear {.smaller}
 
 - Game theory incorporates interactions among offspring in a population
@@ -22,8 +56,6 @@ require(car)
 - Larger offspring are more competitively superior
 - Smaller offspring colonize unoccupied sites because they are more abundant
 - Degree of symmetry is crucial to the variation in offspring size
-
-:::
 
 ------------------------------------------------------------------------
 

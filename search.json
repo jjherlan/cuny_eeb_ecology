@@ -91,6 +91,20 @@
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
   },
   {
+    "objectID": "content/evolution.html#slide-with-a-pause",
+    "href": "content/evolution.html#slide-with-a-pause",
+    "title": "Offspring size variation and asymmetries in competition and facilitation",
+    "section": "Slide with a pause",
+    "text": "Slide with a pause\ncontent before the pause\n\ncontent after the pause"
+  },
+  {
+    "objectID": "content/evolution.html#life-history-theory",
+    "href": "content/evolution.html#life-history-theory",
+    "title": "Offspring size variation and asymmetries in competition and facilitation",
+    "section": "Life-history theory",
+    "text": "Life-history theory\nRelationship between offspring size and performance may persist across generations\n\nFocal point of the larger offspring vs the smaller offspring\n\nMore parental resources\nHigher survival\nHigher growth\nHigher reproduction\n\n\n\nNo explanation for variation in offspring size within populations of the same species."
+  },
+  {
     "objectID": "content/ecology.html",
     "href": "content/ecology.html",
     "title": "Ecology",

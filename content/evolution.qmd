@@ -16,7 +16,7 @@ require(car)
 
 ### Offspring sizes vary within populations but reasons are unclear
 
-
+![](fig1.jpg){fig-align="center" width="1100" height="550"}
 
 ------------------------------------------------------------------------
 
@@ -95,37 +95,93 @@ No explanation for variation in offspring size within populations of the same sp
 
 ------------------------------------------------------------------------
 
-::: incremental
-### Smith-Fretwell model {.smaller}
+### Classic optimality theory: Smith-Fretwell model (1974)
 
-- Game theory incorporates interactions among offspring in a population
-- *Trade-off* offspring size & number
-- Larger offspring are more competitively superior
+- Selection on offspring size is stabilizing 
+- A single offspring size in a population will maximize maternal fitness
+- Mothers trade-off size and number of offspring
+- Larger offspring = *performance*
+- Smaller offspring = *abundance*
+- Predict mean values of offspring & variation *among* populations 
+
+------------------------------------------------------------------------
+
+### Classic optimality theory: Smith-Fretwell model (1974)
+
+- Game theory incorporates density- and frequency-dependent interactions among offspring in a population
+- *Trade-off* offspring size & number: competition-colonization trade-off
+- Larger offspring are more competitively superior (win contests)
 - Smaller offspring colonize unoccupied sites because they are more abundant
 - Degree of symmetry is crucial to the variation in offspring size
 
+------------------------------------------------------------------------
+
+::: columns
+::: {.column width="50%"}
+
+#### Comeptition is asymmetric 
+- Large offspring are good *competitors* 
+- Disproportionately acquire resources relative to size
+- Small offspring are good *colonizers*
+- No offspring is evolutionary stable
+- Variation is maintained
+
+:::
+
+::: {.column width="50%"}
+
+#### Competition is symmetric
+- All offspring receive same resources 
+- Single offspring size is optimal and exclude other sizes
+
+:::
 :::
 
 ------------------------------------------------------------------------
 
+::: columns
+::: {.column width="50%"}
+
+#### Degree of symmetry affects offspring-size variation
+- Competition must be strongly *asymmetric* to account for the colonization advantage of small offspring
+
+:::
+
+::: {.column width="50%"}
+
+#### Game-theoretic models
+- Competitive asymmetries and positive-frequency selection cause variation in offspring size
+
+:::
+:::
+
+------------------------------------------------------------------------
+
+#### Do competitive asymmetries maintain offspring-size variation in natural populations?
+
+**Larger offspring** win contests over smaller offspring
+
+- More energy reserves & use *proportionately* less reserves during development
+- More energy for growth, survival, reproduction
+- Resistance 
+- Smaller offspring colonize unoccupied sites because they are more abundant
+- Degree of symmetry is crucial to the variation in offspring size
+
+------------------------------------------------------------------------
 
 {{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="75%" height="75%" start = "0" >}}
 
-
 ------------------------------------------------------------------------
 
-::: incremental
-### Materials and Methods {.smaller}
+#### Materials and Methods
 
-#### Study species
+##### Study species
 - *Begula neritina* is a bryozoan common to sessile marine communities worldwide.
 
-#### Experimental Methods
+##### Experimental Methods
 - *Field experiment* 
-- 
-- 
 
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -151,8 +207,7 @@ Focals from **larger** vs. smaller offspring:
 
 ------------------------------------------------------------------------
 
-::: incremental
-### Results {.smaller}
+### Results
 
 - **Probability that focal colonies reproduced**
 
@@ -161,8 +216,6 @@ Focals from **larger** vs. smaller offspring:
 - **Reproductive output of focals**
 
 - Own offspring size & 
-
-:::
 
 ------------------------------------------------------------------------
 

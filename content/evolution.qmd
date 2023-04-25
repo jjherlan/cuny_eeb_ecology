@@ -106,7 +106,7 @@ No explanation for variation in offspring size within populations of the same sp
 
 ------------------------------------------------------------------------
 
-### Classic optimality theory: Smith-Fretwell model (1974)
+#### Classic optimality theory: Smith-Fretwell model (1974)
 
 - Game theory incorporates density- and frequency-dependent interactions among offspring in a population
 - *Trade-off* offspring size & number: competition-colonization trade-off
@@ -169,24 +169,20 @@ No explanation for variation in offspring size within populations of the same sp
 
 ------------------------------------------------------------------------
 
-{{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="75%" height="75%" start = "0" >}}
-
-------------------------------------------------------------------------
-
-#### Materials and Methods
-
 ##### Study species
-- *Begula neritina* is a bryozoan common to sessile marine communities worldwide.
+*Begula neritina* is a bryozoan common to sessile marine communities worldwide.
 
-##### Experimental Methods
-- *Field experiment* 
-
-
+{{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="60%" height="60%" start = "0" >}}
 
 ------------------------------------------------------------------------
 
-::: incremental
-### Results {.smaller}
+##### *In-situ* experiment
+
+![](experiment.jpg){fig-align="center" width="55%" height="55%"}
+
+------------------------------------------------------------------------
+
+#### Results
 Focals from **larger** vs. smaller offspring:
 
 1. Higher survival
@@ -203,9 +199,24 @@ Focals from **larger** vs. smaller offspring:
 
 - Larger offspring had higher probability of reproducing than smaller offspring ($X^{2} = 13.644$, $df = 1$, $P = <0.001$) - *no neighbor size effect*.
 
-:::
-
 ------------------------------------------------------------------------
+
+#### Results
+Focals from **larger** vs. smaller offspring:
+
+1. Higher survival
+2. Larger growth
+3. Higher reproduction
+
+- Focals from larger offspring survived better than those from smaller offspring ($X^{2} = 7.961$, $df = 1$, $P = 0.005$) - *no neighbor size effect*.
+
+- **Larger growth**
+
+- Larger offspring = larger colonies ($F_{1,105} = 7.590$, $P = 0.007$) - *no neighbor size effect*.
+
+- **Higher reproduction**
+
+- Larger offspring had higher probability of reproducing than smaller offspring ($X^{2} = 13.644$, $df = 1$, $P = <0.001$) - *no neighbor size effect*.
 
 ### Results
 

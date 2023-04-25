@@ -14,6 +14,11 @@ require(tidyverse)
 require(car)
 ```
 
+
+![](Cameron2019_pg1.png){fig-align="center" width="50%" height="50%"}
+
+------------------------------------------------------------------------
+
 #### Offspring sizes vary within populations but reasons are unclear
 
 ![](intro.jpg){fig-align="center" width="1100" height="550"}

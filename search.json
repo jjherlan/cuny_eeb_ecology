@@ -105,13 +105,6 @@
     "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
   },
   {
-    "objectID": "content/evolution.html#slide-with-a-pause",
-    "href": "content/evolution.html#slide-with-a-pause",
-    "title": "Offspring size variation and asymmetries in competition and facilitation",
-    "section": "Slide with a pause",
-    "text": "Slide with a pause\ncontent before the pause\n\ncontent after the pause"
-  },
-  {
     "objectID": "content/ecology.html",
     "href": "content/ecology.html",
     "title": "Ecology",

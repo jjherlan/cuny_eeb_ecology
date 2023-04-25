@@ -29,22 +29,21 @@ require(car)
 
 Relationship between offspring size and performance may persist across generations
 
-. . .
-
-Focal point of the **larger offspring** vs the *smaller offspring*
+**Larger offspring** vs. the *smaller offspring*
 
 - More parental resources
+
 - Higher survival
+
 - Higher growth
+
 - Higher reproduction
 
-. . . 
-
-No explanation for variation in offspring size within populations of the same species.
+ - **No explanation for variation in offspring size within populations of the same species.**
 
 ------------------------------------------------------------------------
 
-##### Offspring sizes vary within populations but reasons are unclear {.smaller}
+#### Offspring sizes vary within populations but reasons are unclear
 
 - Game theory incorporates interactions among offspring in a population
 - *Trade-off* offspring size & number
@@ -54,43 +53,7 @@ No explanation for variation in offspring size within populations of the same sp
 
 ------------------------------------------------------------------------
 
-::: columns
-::: {.column width="50%"}
-
-#### Competition is asymmetric 
-- Large offspring are good *competitors* 
-- Small offspring are good *colonizers*
-- No offspring is evolutionary stable
-
-:::
-
-::: {.column width="50%"}
-#### Competition is symmetric
-:::
-:::
-
-------------------------------------------------------------------------
-
-### Energy provisioning
-
-::: columns
-::: {.column width="50%"}
-
-#### Comeptition is asymmetric 
-- Large offspring are good *competitors* 
-- Small offspring are good *colonizers*
-- No offspring is evolutionary stable
-
-:::
-
-::: {.column width="50%"}
-#### Competition is symmetric
-:::
-:::
-
-------------------------------------------------------------------------
-
-##### Classic optimality theory: Smith-Fretwell model (1974)
+#### Classic optimality theory: Smith-Fretwell model (1974)
 
 - Selection on offspring size is stabilizing 
 - A single offspring size in a population will maximize maternal fitness
@@ -101,7 +64,7 @@ No explanation for variation in offspring size within populations of the same sp
 
 ------------------------------------------------------------------------
 
-##### Classic optimality theory: Smith-Fretwell model (1974)
+#### Classic optimality theory: Smith-Fretwell model (1974)
 
 - Game theory incorporates density- and frequency-dependent interactions among offspring in a population
 - *Trade-off* offspring size & number: competition-colonization trade-off
@@ -149,18 +112,6 @@ No explanation for variation in offspring size within populations of the same sp
 
 :::
 :::
-
-------------------------------------------------------------------------
-
-##### Do competitive asymmetries maintain offspring-size variation in natural populations?
-
-**Larger offspring** win contests over smaller offspring
-
-- More energy reserves & use *proportionately* less reserves during development
-- More energy for growth, survival, reproduction
-- Resistance 
-- Smaller offspring colonize unoccupied sites because they are more abundant
-- Degree of symmetry is crucial to the variation in offspring size
 
 ------------------------------------------------------------------------
 
@@ -336,12 +287,3 @@ No explanation for variation in offspring size within populations of the same sp
 - Smaller offspring were advantageous when stress was reduced via *facilitation*
 
 - Larger offspring won when stress was high in *neighbor-free* conditions
-
-
-
-
-
-
-
-
-

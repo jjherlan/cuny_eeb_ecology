@@ -14,23 +14,13 @@ require(tidyverse)
 require(car)
 ```
 
-##### Offspring sizes vary within populations but reasons are unclear
+#### Offspring sizes vary within populations but reasons are unclear
 
-![](fig1.jpg){fig-align="center" width="1100" height="550"}
-
-------------------------------------------------------------------------
-
-## Slide with a pause
-
-content before the pause
-
-. . .
-
-content after the pause
+![](intro.jpg){fig-align="center" width="1100" height="550"}
 
 ------------------------------------------------------------------------
 
-##### Life-history theory 
+#### Life-history theory 
 
 Relationship between offspring size and performance may persist across generations
 

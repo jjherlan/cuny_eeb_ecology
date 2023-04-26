@@ -161,18 +161,6 @@ Relationship between offspring size and performance may persist across generatio
 
 ------------------------------------------------------------------------
 
-##### Facilitation
-
-**Increased with neighbor size**
-
--   Largest neighbors were strongest facilitators of
-
--   *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
-
--   Size neighbors determined the strength of these interactions.
-
-------------------------------------------------------------------------
-
 ##### To review
 
 -   Larger offspring: (1) survival advantage and (2) higher chance of reproducing
@@ -189,9 +177,9 @@ Relationship between offspring size and performance may persist across generatio
 
 -   **Composite fitness** = fecundity x probability of reproducing \[survival to maturity, whether survivors reproduced\]
 
-- Neighbors reduced probability that focals reproduced
-- $[+]$ effect on fecundities of smaller offspring outweighed the $[-]$ effect
-- **Negibores factilitated smaller offspring**
+- Neighbors reduced probability that focals reproduced.
+
+- $[+]$ effect on fecundities of smaller offspring outweighed the $[-]$ effect.
 
 ------------------------------------------------------------------------
 
@@ -199,27 +187,27 @@ Relationship between offspring size and performance may persist across generatio
 
 ![](Fig2D.jpg){fig-align="center" width="40%" height="40%"}
 
--   Mothers have higher fitness returns with many smaller vs. few larger *when offpsring interact*
+-   Mothers have higher fitness returns with many smaller vs. few larger *when offspring interact*
 
 ------------------------------------------------------------------------
 
 ##### This study was the first to show that asymmetric facilitation can occur between offspring of different sizes.
 
--   Contradiction to game-theoretic models that strong competitive asymmetries favor larger offspring (Gertitz 1995; Gertitz et al. 1999)
+-   Contradiction to game-theoretic models that strong competitive asymmetries favor larger offspring (Gertitz 1995; Gertitz et al. 1999).
 
--   Offspring size altered the strength and direction of pairwise interactions
+-   Offspring size altered the strength and direction of pairwise interactions.
 
--   Focal offspring size determined interactions: $+/-$
+-   Focal offspring size determined interactions: $+/-$.
 
--   Neighbors facilitated smaller offspring but competed with larger offspring
+-   Neighbors facilitated smaller offspring but competed with larger offspring.
 
 ------------------------------------------------------------------------
 
 #### Discussion
 
--   Offspring size of neighbors determined strength of interaction
+-   Offspring size of neighbors determined strength of interaction.
 
--   Neighbors from larger offspring were both **strongest** *facilitators* and *competitors*, respectively
+-   Neighbors from larger offspring were both **strongest** *facilitators* and *competitors*, respectively.
 
 -   **Asymmetric facilitation:** small offspring received benefits from larger offspring, but large offspring only experienced competition (i.e., reciprocal interactions are $+/-$) (Lin et al. 2012; Schob et al. 2014).
 
@@ -251,9 +239,9 @@ Relationship between offspring size and performance may persist across generatio
 
 -   Large offspring performed best in isolation - advantageous when population densities are low and large phenotypes are rare.
 
--   Frequency of large offspring increases - performance will decrease due to intra-phenotpyic competition
+-   Frequency of large offspring increases - performance will decrease due to intra-phenotpyic competition.
 
--   Smaller offspring will first increase due to facilitation, then decline as large offspring become more abundant
+-   Smaller offspring will first increase due to facilitation, then decline as large offspring become more abundant.
 
 ------------------------------------------------------------------------
 
@@ -265,7 +253,7 @@ Relationship between offspring size and performance may persist across generatio
 
 ------------------------------------------------------------------------
 
-##### Incorporate positive interactipns in stress-tolerant models
+##### Incorporate positive interactions in stress-tolerant models
 
 -   Facilitation and spatial heterogeneity in stressful environments (D'Andrea et al. 2013; Muller-Landau 2010)
 

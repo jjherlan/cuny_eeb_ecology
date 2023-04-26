@@ -74,24 +74,32 @@ Relationship between offspring size and performance may persist across generatio
 
 ------------------------------------------------------------------------
 
-#### Do competitve asymmetries maintain offspring-size variation in natural populations?
-#### Do larger offspring always win contests over small ones? 
+#### Important prediction of the Smith-Fretwell model (1974)
 
+-   Competition must be *strongly asymmetric* to overcome the colonization advantage of smaller offspring.
 
-- **Larger offspring** have more energy for growth, survival, and reproduction
-- Higher energy reserves
-- Use proportionately less vs. smaller offspring (Leishman et al. 2000, Patteresen et al. 2015, 2017)
-- Resistance to starvation and low resource environments
-- Access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
+-   **Degree of asymmetry** is crucial for the maintenance of offspring-size variation (Geritz et al. 1999).
 
 ------------------------------------------------------------------------
 
-#### Do competitve asymmetries maintain 
-#### Do larger offspring always win contests over small ones? 
+#### Do competitve asymmetries maintain offspring-size variation in natural populations?
 
+#### Do larger offspring always win contests over small ones?
 
-- **Smaller offspring** require less resources
-- Tolerate resource depletion better than larger offspring (Persson 1985)? 
+-   **Larger offspring** have more energy for growth, survival, and reproduction
+-   Higher energy reserves
+-   Use proportionately less vs. smaller offspring (Leishman et al. 2000, Pattersen et al. 2015, 2017)
+-   Resistance to starvation and low resource environments
+-   Access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
+
+------------------------------------------------------------------------
+
+#### Do competitve asymmetries maintain
+
+#### Do larger offspring always win contests over small ones?
+
+-   **Smaller offspring** require less resources
+-   Tolerate resource depletion better than larger offspring (Persson 1985)?
 
 ------------------------------------------------------------------------
 
@@ -177,9 +185,13 @@ Relationship between offspring size and performance may persist across generatio
 
 ##### Neighbors facilitated smaller offspring
 
-![](Fig2C.jpg){fig-align="center" width="40%" height="40%"}
+![](Fig2C.jpg){fig-align="center" width="30%" height="30%"}
 
 -   **Composite fitness** = fecundity x probability of reproducing \[survival to maturity, whether survivors reproduced\]
+
+- Neighbors reduced probability that focals reproduced
+- $[+]$ effect on fecundities of smaller offspring outweighed the $[-]$ effect
+- **Negibores factilitated smaller offspring**
 
 ------------------------------------------------------------------------
 

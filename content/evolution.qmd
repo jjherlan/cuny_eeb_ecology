@@ -14,7 +14,6 @@ require(tidyverse)
 require(car)
 ```
 
-
 ![](Cameron2019_pg1.png){fig-align="center" width="50%" height="50%"}
 
 ------------------------------------------------------------------------
@@ -25,104 +24,98 @@ require(car)
 
 ------------------------------------------------------------------------
 
-#### Life-history theory 
+#### Life-history theory
 
-Relationship between offspring size and performance may persist across generations
+Relationship between offspring size and performance may persist across generations (Benton et al. 2005, Krist 2011, Marshall et al. 2018).
 
-**Larger offspring** vs. the *smaller offspring*
+**Larger offspring** vs. the *smaller offspring* (Krist 2011, Marshall et al. 2018)
 
-- More parental resources
+-   More parental resources
 
-- Higher survival
+-   Higher survival
 
-- Higher growth
+-   Higher growth
 
-- Higher reproduction
+-   Higher reproduction
 
- - **No explanation for variation in offspring size within populations of the same species.**
-
-------------------------------------------------------------------------
-
-#### Offspring sizes vary within populations but reasons are unclear
-
-- Game theory incorporates interactions among offspring in a population
-- *Trade-off* offspring size & number
-- Larger offspring are more competitively superior
-- Smaller offspring colonize unoccupied sites because they are more abundant
-- Degree of symmetry is crucial to the variation in offspring size
+-   No explanation for variation in offspring size within populations of the same species (Marshall et al. 2018, Stearns 1992).
 
 ------------------------------------------------------------------------
 
 #### Classic optimality theory: Smith-Fretwell model (1974)
 
-- Selection on offspring size is stabilizing 
-- A single offspring size in a population will maximize maternal fitness
-- Mothers trade-off size and number of offspring
-- Larger offspring = *performance*
-- Smaller offspring = *abundance*
-- Predict mean values of offspring & variation *among* populations 
+-   Selection on offspring size is stabilizing
+-   A single offspring size in a population will maximize maternal fitness
+-   Mothers trade-off benefits of size vs. number of offspring
+-   Larger offspring = *performance*
+-   Smaller offspring = *abundance*
+-   Model can predict mean values of offspring & variation *among* populations
 
 ------------------------------------------------------------------------
 
 #### Classic optimality theory: Smith-Fretwell model (1974)
 
-- Game theory incorporates density- and frequency-dependent interactions among offspring in a population
+-   Game theory incorporates density- and frequency-dependent interactions among offspring in a population (Geritz 1995, Gertiz et al. 1999).
+
 - *Trade-off* offspring size & number: competition-colonization trade-off
 - Larger offspring are more competitively superior (win contests)
 - Smaller offspring colonize unoccupied sites because they are more abundant
 - Degree of symmetry is crucial to the variation in offspring size
+- 
 
 ------------------------------------------------------------------------
 
 ::: columns
 ::: {.column width="50%"}
+##### Comeptition is asymmetric
 
-##### Comeptition is asymmetric 
-- Large offspring are good *competitors* 
-- Disproportionately acquire resources relative to size
-- Small offspring are good *colonizers*
-- No offspring is evolutionary stable
-- Variation is maintained
-
+-   Large offspring are good *competitors*
+-   Disproportionately acquire resources relative to size (Weiner 1990)
+-   Small offspring are good *colonizers*
+-   No offspring is evolutionary stable
+-   Variation is maintained
 :::
 
 ::: {.column width="50%"}
-
 ##### Competition is symmetric
-- All offspring receive same resources 
-- Single offspring size is optimal and exclude other sizes
 
+-   All offspring receive same resources (Weiner 1990)
+-   Single offspring size is optimal and exclude other sizes (Geritz 1995; Gertiz et al. 1999)
 :::
 :::
 
 ------------------------------------------------------------------------
 
-::: columns
-::: {.column width="50%"}
+#### Do competitve asymmetries maintain 
+#### Do larger offspring always win contests over small ones? 
 
-##### Degree of symmetry affects offspring-size variation
-- Competition must be strongly *asymmetric* to account for the colonization advantage of small offspring
 
-:::
+- **Larger offspring** have more energy for growth, survival, and reproduction
+- Higher energy reserves
+- Use proportionately less vs. smaller offspring (Leishman et al. 2000, Patteresen et al. 2015, 2017)
+- Resistance to starvation and low resource environments
+- Access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
 
-::: {.column width="50%"}
+------------------------------------------------------------------------
 
-##### Game-theoretic models
-- Competitive asymmetries and positive-frequency selection cause variation in offspring size
+#### Do competitve asymmetries maintain 
+#### Do larger offspring always win contests over small ones? 
 
-:::
-:::
+
+- **Smaller offspring** require less resources
+- Tolerate resource depletion better than larger offspring (Persson 1985)?
 
 ------------------------------------------------------------------------
 
 ##### Study species
+
 *Begula neritina* is a bryozoan common to sessile marine communities worldwide.
 
-{{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="60%" height="60%" start = "0" >}}
+{{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="50%" height="50%" start = "0" >}}
 
 ------------------------------------------------------------------------
 
-##### Experiment
+##### Experiment: Does offspring size generate intraspecific competitive asymmetries?
 
 ![](experiment.jpg){fig-align="center" width="60%" height="60%"}
 
@@ -138,17 +131,17 @@ Relationship between offspring size and performance may persist across generatio
 
 ![](Fig2A.jpg){fig-align="center" width="40%" height="40%"}
 
-- Focals from larger offspring survived better than those from smaller offspring ($X^{2} = 7.961$, $df = 1$, $P = 0.005$) - *no neighbor size effect*.
+-   Focals from larger offspring survived better than those from smaller offspring ($X^{2} = 7.961$, $df = 1$, $P = 0.005$) - *no neighbor size effect*.
 
 ------------------------------------------------------------------------
 
-##### Growth and Reproduction 
+##### Growth and Reproduction
 
-- Larger offspring $\to$ larger colonies ($F_{1,105} = 7.590$, $P = 0.007$) with *no neighbor size effect*.
+-   Larger offspring $\to$ larger colonies ($F_{1,105} = 7.590$, $P = 0.007$) with *no neighbor size effect*.
 
-- Larger offspring had higher probability of reproducing than smaller offspring ($X^{2} = 13.644$, $df = 1$, $P < 0.001$) with *no neighbor X size effect*.
+-   Larger offspring had higher probability of reproducing than smaller offspring ($X^{2} = 13.644$, $df = 1$, $P < 0.001$) with *no neighbor X size effect*.
 
-- Probability that focals reproduced was lower in presence of neighbors vs. neighbor-free ($X^{2} = 3.865$, $df = 1$, $P = 0.049$) & *consistent across focal sizes* (focal size x neighbor presence: $X^{2} = 0.37$, $df = 1$, $P = 0.541$).
+-   Probability that focals reproduced was lower in presence of neighbors vs. neighbor-free ($X^{2} = 3.865$, $df = 1$, $P = 0.049$) & *consistent across focal sizes* (focal size x neighbor presence: $X^{2} = 0.37$, $df = 1$, $P = 0.541$).
 
 ------------------------------------------------------------------------
 
@@ -156,20 +149,19 @@ Relationship between offspring size and performance may persist across generatio
 
 ![](Fig2B.jpg){fig-align="center" width="40%" height="40%"}
 
-
-- Reproductive output of focal colonies was affected by *their own original* offspring size & *original* size of neighbor ($F_{1,133} = 4.511$, $P = 0.036$).
+-   Reproductive output of focal colonies was affected by *their own original* offspring size & *original* size of neighbor ($F_{1,133} = 4.511$, $P = 0.036$).
 
 ------------------------------------------------------------------------
 
 ##### Neighbors facilitated smaller offspring but competed with larger offspring
 
-- **Isolation:** Offspring produced had 5X output vs. small offspring.
+-   **Isolation:** Offspring produced had 5X output vs. small offspring.
 
-- **Pairwise interactions:** *Original* size of focal offspring determined their own response to neighbors.
+-   **Pairwise interactions:** *Original* size of focal offspring determined their own response to neighbors.
 
-- *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
+-   *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
 
-- Size neighbors determined the strength of these interactions.
+-   Size neighbors determined the strength of these interactions.
 
 ------------------------------------------------------------------------
 
@@ -177,21 +169,21 @@ Relationship between offspring size and performance may persist across generatio
 
 **Increased with neighbor size**
 
-- Largest neighbors were strongest facilitators of 
+-   Largest neighbors were strongest facilitators of
 
-- *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
+-   *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
 
-- Size neighbors determined the strength of these interactions.
+-   Size neighbors determined the strength of these interactions.
 
 ------------------------------------------------------------------------
 
 ##### To review
 
-- Larger offspring: (1) survival advantage and (2) higher chance of reproducing
+-   Larger offspring: (1) survival advantage and (2) higher chance of reproducing
 
 ##### However, in the presence of neighbors...
 
-- Smaller offspring that survived to reproduce had higher reproductive output vs. larger offspring 
+-   Smaller offspring that survived to reproduce had higher reproductive output vs. larger offspring
 
 ------------------------------------------------------------------------
 
@@ -199,7 +191,7 @@ Relationship between offspring size and performance may persist across generatio
 
 ![](Fig2C.jpg){fig-align="center" width="40%" height="40%"}
 
-- **Composite fitness** = fecundity x probability of reproducing [survival to maturity, whether survivors reproduced]
+-   **Composite fitness** = fecundity x probability of reproducing \[survival to maturity, whether survivors reproduced\]
 
 ------------------------------------------------------------------------
 
@@ -207,30 +199,29 @@ Relationship between offspring size and performance may persist across generatio
 
 ![](Fig2D.jpg){fig-align="center" width="40%" height="40%"}
 
-
-- Mothers have higher fitness returns with many smaller vs. few larger *when offpsring interact*
+-   Mothers have higher fitness returns with many smaller vs. few larger *when offpsring interact*
 
 ------------------------------------------------------------------------
 
 ##### This study was the first to show that asymmetric facilitation can occur between offspring of different sizes.
 
-- Contradiction to game-theoretic models that strong competitive asymmetries favor larger offspring (Gertitz 1995; Gertitz et al. 1999)
+-   Contradiction to game-theoretic models that strong competitive asymmetries favor larger offspring (Gertitz 1995; Gertitz et al. 1999)
 
-- Offspring size altered the strength and direction of pairwise interactions
+-   Offspring size altered the strength and direction of pairwise interactions
 
-- Focal offspring size determined interactions: $+/-$
+-   Focal offspring size determined interactions: $+/-$
 
-- Neighbors facilitated smaller offspring but competed with larger offspring
+-   Neighbors facilitated smaller offspring but competed with larger offspring
 
 ------------------------------------------------------------------------
 
 #### Discussion
 
-- Offspring size of neighbors determined strength of interaction
+-   Offspring size of neighbors determined strength of interaction
 
-- Neighbors from larger offspring were both **strongest** *facilitators* and *competitors*, respectively
+-   Neighbors from larger offspring were both **strongest** *facilitators* and *competitors*, respectively
 
-- **Asymmetric facilitation:** small offspring received benefits from larger offspring, but large offspring only experienced competition (i.e., reciprocal interactions are $+/-$) (Lin et al. 2012; Schob et al. 2014).
+-   **Asymmetric facilitation:** small offspring received benefits from larger offspring, but large offspring only experienced competition (i.e., reciprocal interactions are $+/-$) (Lin et al. 2012; Schob et al. 2014).
 
 ------------------------------------------------------------------------
 
@@ -238,52 +229,52 @@ Relationship between offspring size and performance may persist across generatio
 
 #### High flow environments
 
-- Correlations between offspring size and other traits that determine resource supply and demand.
+-   Correlations between offspring size and other traits that determine resource supply and demand.
 
-- Physical structure of organisms can disrupt boundary currents and increase entrapment of resources that result in facilitation (Cameron et al. 2016; Cardinale et al. 2002).
+-   Physical structure of organisms can disrupt boundary currents and increase entrapment of resources that result in facilitation (Cameron et al. 2016; Cardinale et al. 2002).
 
-- Larger offspring $\to$ larger colonies that may disproportionately disrupt flow and increase resources.
+-   Larger offspring $\to$ larger colonies that may disproportionately disrupt flow and increase resources.
 
 ------------------------------------------------------------------------
 
 ##### Benefit of resource amelioration
 
-- Smaller offspring $\to$ small colonies that are not efficient at acquiring resources (Cameron et al. 2016; Okamura 1984). 
+-   Smaller offspring $\to$ small colonies that are not efficient at acquiring resources (Cameron et al. 2016; Okamura 1984).
 
-- Larger offspring acquire resources more efficiently but receive less in presence of neighbors (i.e., competition) (Okamura 1984).
+-   Larger offspring acquire resources more efficiently but receive less in presence of neighbors (i.e., competition) (Okamura 1984).
 
 ------------------------------------------------------------------------
 
 #### How does asymmetric facilitation affect variation in offspring size?
 
-- Size-mediated facilitation generates *negative frequency-dependent* selection on offspring size (Day & Young 2004).
+-   Size-mediated facilitation generates *negative frequency-dependent* selection on offspring size (Day & Young 2004).
 
-- Large offspring performed best in isolation - advantageous when population densities are low and large phenotypes are rare.
+-   Large offspring performed best in isolation - advantageous when population densities are low and large phenotypes are rare.
 
-- Frequency of large offspring increases - performance will decrease due to intra-phenotpyic competition
+-   Frequency of large offspring increases - performance will decrease due to intra-phenotpyic competition
 
-- Smaller offspring will first increase due to facilitation, then decline as large offspring become more abundant
+-   Smaller offspring will first increase due to facilitation, then decline as large offspring become more abundant
 
 ------------------------------------------------------------------------
 
 ##### Game-theoretic models
 
-- Frequency-dependent consequences of offspring size (Geritz 1995; Gertiz et al. 1999).
+-   Frequency-dependent consequences of offspring size (Geritz 1995; Gertiz et al. 1999).
 
-- Include facilitation and how resources vary with sizes and densities of offspring (via *asymmetric facilitation*) (Gertitz 1995; Geritz et al. 1999).
+-   Include facilitation and how resources vary with sizes and densities of offspring (via *asymmetric facilitation*) (Gertitz 1995; Geritz et al. 1999).
 
 ------------------------------------------------------------------------
 
 ##### Incorporate positive interactipns in stress-tolerant models
 
-- Facilitation and spatial heterogeneity in stressful environments (D'Andrea et al. 2013; Muller-Landau 2010)
+-   Facilitation and spatial heterogeneity in stressful environments (D'Andrea et al. 2013; Muller-Landau 2010)
 
-- Larger offspring are more stress-tolerant and competitively superior (Gertiz 1995) and win *more stressful* sites.
+-   Larger offspring are more stress-tolerant and competitively superior (Gertiz 1995) and win *more stressful* sites.
 
-- Smaller offspring are more abundant so win at *less stressful* sites
+-   Smaller offspring are more abundant so win at *less stressful* sites
 
 #### This study provided evidence
 
-- Smaller offspring were advantageous when stress was reduced via *facilitation*
+-   Smaller offspring were advantageous when stress was reduced via *facilitation*
 
-- Larger offspring won when stress was high in *neighbor-free* conditions
+-   Larger offspring won when stress was high in *neighbor-free* conditions

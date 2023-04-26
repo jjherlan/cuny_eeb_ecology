@@ -90,7 +90,7 @@ Relationship between offspring size and performance may persist across generatio
 -   Higher energy reserves
 -   Use proportionately less vs. smaller offspring (Leishman et al. 2000, Pattersen et al. 2015, 2017)
 -   Resistance to starvation and low resource environments
--   Access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
+-   **Smaller offspring** access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
 
 ------------------------------------------------------------------------
 

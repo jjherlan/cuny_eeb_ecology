@@ -87,10 +87,10 @@ Relationship between offspring size and performance may persist across generatio
 #### Do larger offspring always win contests over small ones?
 
 -   **Larger offspring** have more energy for growth, survival, and reproduction
--   Higher energy reserves
--   Use proportionately less vs. smaller offspring (Leishman et al. 2000, Pattersen et al. 2015, 2017)
--   Resistance to starvation and low resource environments
--   **Smaller offspring** access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
+-   Higher energy reserves.
+-   Use proportionately less vs. smaller offspring (Leishman et al. 2000, Pattersen et al. 2015, 2017).
+-   May resist starvation in low resource environments.
+-   Access more resources when feeding starts - but disproportionately more required for *asymmetric competition* (Marshall et al. 2018, Weiner 1990).
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ Relationship between offspring size and performance may persist across generatio
 
 ##### Study species
 
-*Begula neritina* is a bryozoan common to sessile marine communities worldwide.
+*Bugula neritina* is a bryozoan common to sessile marine communities worldwide.
 
 {{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="50%" height="50%" start = "0" >}}
 

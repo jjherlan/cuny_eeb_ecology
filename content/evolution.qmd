@@ -53,18 +53,6 @@ Relationship between offspring size and performance may persist across generatio
 
 ------------------------------------------------------------------------
 
-#### Classic optimality theory: Smith-Fretwell model (1974)
-
--   Game theory incorporates density- and frequency-dependent interactions among offspring in a population (Geritz 1995, Gertiz et al. 1999).
-
-- *Trade-off* offspring size & number: competition-colonization trade-off
-- Larger offspring are more competitively superior (win contests)
-- Smaller offspring colonize unoccupied sites because they are more abundant
-- Degree of symmetry is crucial to the variation in offspring size
-- 
-
-------------------------------------------------------------------------
-
 ::: columns
 ::: {.column width="50%"}
 ##### Comeptition is asymmetric
@@ -86,7 +74,7 @@ Relationship between offspring size and performance may persist across generatio
 
 ------------------------------------------------------------------------
 
-#### Do competitve asymmetries maintain 
+#### Do competitve asymmetries maintain offspring-size variation in natural populations?
 #### Do larger offspring always win contests over small ones? 
 
 
@@ -103,7 +91,7 @@ Relationship between offspring size and performance may persist across generatio
 
 
 - **Smaller offspring** require less resources
-- Tolerate resource depletion better than larger offspring (Persson 1985)?
+- Tolerate resource depletion better than larger offspring (Persson 1985)? 
 
 ------------------------------------------------------------------------
 

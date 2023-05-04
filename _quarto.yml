@@ -49,6 +49,8 @@ website:
         text: Ecology
       - href: content/evolution.qmd
         text: Evolution
+      - href: content/ethics.qmd
+        text: Ethics
 
 format:
   html:

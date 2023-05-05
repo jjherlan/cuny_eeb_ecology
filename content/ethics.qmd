@@ -30,7 +30,7 @@ require(car)
 :::
 
 ::: {.fragment .fade-up}
-Academic advisors and committee members should properly guide and teach research ethics to graduate students.
+**Academic advisors and committee members should properly guide and teach research ethics to graduate students.**
 :::
 
 ::: notes
@@ -51,7 +51,7 @@ Become subject to exploitation and often lack confidence to assert their credibi
 :::
 
 ::: {.column .incremental width="50%"}
-#### [@logan2017]Outcomes for today
+#### Outcomes for today
 
 -   Employment in scientific fields
 
@@ -122,6 +122,8 @@ Since the 1950s, the number of manuscripts with multiple authors has risen due, 
 :::
 
 ::: notes
+-   Main types of abuses that graduate students may face with authorship credit in academia
+
 -   Coercion is a type of scientific misconduct that often occurs when an individual in a senior academic position intimidates subordinates, such as graduate students, to gain authorship credit
 
 -   Honorary authorship occurs when an individual receives authorship credit without contributing any significant amount of content, like writing or revision, to the manuscript
@@ -143,7 +145,13 @@ Since the 1950s, the number of manuscripts with multiple authors has risen due, 
 3.  Final approval of the version to be published
 :::
 
-. . .
+::: notes
+-   Most widely accepted guidelines for authorship ethics
+:::
+
+------------------------------------------------------------------------
+
+#### International Committee of Medical Journals Editors (ICMJE)
 
 No justification of credit
 
@@ -156,7 +164,7 @@ No justification of credit
 :::
 
 ::: notes
--   Most widely accepted guidelines for authorship ethics
+-   ICMJE states that authorship credit is not justified solely by procurement of funding, data collection, or general supervision of research activities and that for authorship credit to be validated, all authors should have participated sufficiently in the research to take public responsibility for it.
 :::
 
 ------------------------------------------------------------------------
@@ -201,24 +209,20 @@ The number of authors on ecological manuscripts has increased over the past seve
 #### Solutions
 
 ::: incremental
-
 -   Byline system
 
     -   Ranks and lists contributions of authors with written documents
 
         -   Verify credit
         -   Confirm contributions
-        
+:::
+
 ::: {.fragment .fade-up}
-
 **Increase the responsibilities of editors and scientific organizations like research universities.**
-
-::: 
+:::
 
 ::: notes
-
 Elliot et al. (2017) proposed that research teams, such as a laboratory at a university, construct authorship policies with criteria that funding agencies require in grant proposals, although any system would be subject to the biases of people classifying author contribution (Logan et al. 2017).
-
 :::
 
 ------------------------------------------------------------------------
@@ -226,24 +230,71 @@ Elliot et al. (2017) proposed that research teams, such as a laboratory at a uni
 #### Conclusion
 
 ::: incremental
+-   Authorship guidelines
 
+    -   Fair & clear principles
 
+    -   Credit and order
 
+-   Prevent non-compliance
+
+    -   Mentorship & education of graduate students
+
+    -   Ethical issues in authorship
 :::
 
+::: notes
+If the ambiguity and non-compliance continue to increase as scientific projects become more interdisciplinary with more authorships per manuscript, then the value of authorship credit could continue to decrease (Logan et al. 2017).
 
+In conclusion, the scientific community should create and adopt a set of authorship guidelines based on fair and clear principles and ethics to determine authorship credit and order (Oberlander and Spencer 2006).
 
+Mentorship and education of graduate students about the ethical issues involved in authorship credit may be the best way to prevent misconduct and non-compliance (Oberlander and Spencer 2006).
+:::
 
+------------------------------------------------------------------------
 
+#### Research Misconduct and Publishing
 
+US Office of Research Integrity ([Health & Human Services](https://ori.hhs.gov/))
 
+"...**fabrication, falsification, or plagiarism** in proposing, performing, or reviewing research or in reporting research results", and furthermore, "...**committed intentionally, knowingly, or recklessly**, and there must be significant departure form accepted practices."
 
+::: incremental
+-   Costs
 
+    -   Conduct of fraudulent research
 
+    -   Investigation
 
+    -   Remediation
+:::
 
+------------------------------------------------------------------------
 
+#### Case of Danielle Dixson and sloppy coral reef science
 
+::: incremental
+-   Investigative panel at University of Delaware
 
+    -   Sloppiness
 
+    -   Investigation
 
+    -   Remediation
+:::
+
+::: notes
+The panel of researchers at UD described the misconduct as the following: "... sloppiness, poor record keeping, copying and pasting within spreadsheets, errors within the papers under investigation, and deviation from established animal ethics protocols
+:::
+
+------------------------------------------------------------------------
+
+#### Case of Danielle Dixson and sloppy coral reef science
+
+[No retraction](https://www.science.org/content/article/journal-declines-retract-fish-research-paper-despite-fraud-finding)
+
+The Proceedings of the Royal Society B: Biological Sciences says it will not retract a paper on anemone fish behavior even though a lengthy university investigation found it was made up.
+
+------------------------------------------------------------------------
+
+#### References

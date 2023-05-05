@@ -17,7 +17,7 @@ require(tidyverse)
 require(car)
 ```
 
-#### The main issues
+#### Disproportionately affects graduate students?
 
 ::: incremental
 -   Stress of being a graduate student
@@ -30,15 +30,11 @@ require(car)
 :::
 
 ::: {.fragment .fade-up}
-
-Academic advisors and committee members should properly guide and teach research ethics to graduate students. 
-
+Academic advisors and committee members should properly guide and teach research ethics to graduate students.
 :::
 
 ::: notes
-
 Become subject to exploitation and often lack confidence to assert their credibility as early researchers who can participate in the scientific process.
-
 :::
 
 ------------------------------------------------------------------------
@@ -55,7 +51,7 @@ Become subject to exploitation and often lack confidence to assert their credibi
 :::
 
 ::: {.column .incremental width="50%"}
-#### Outcomes for today
+#### [@logan2017]Outcomes for today
 
 -   Employment in scientific fields
 
@@ -104,7 +100,7 @@ Since the 1950s, the number of manuscripts with multiple authors has risen due, 
 ------------------------------------------------------------------------
 
 ::: incremental
--   **Coersion**
+-   **Coercion**
 
     -   Superior intimidates a student
 
@@ -137,234 +133,117 @@ Since the 1950s, the number of manuscripts with multiple authors has risen due, 
 
 ------------------------------------------------------------------------
 
-#### What's the big deal?
+#### International Committee of Medical Journals Editors (ICMJE)
 
-------------------------------------------------------------------------
+"Authorship should be based on...
 
-::: columns
-::: {.column width="50%"}
-##### Comeptition is asymmetric
-
--   Large offspring are good *competitors*
--   Disproportionately acquire resources relative to size (Weiner 1990)
--   Small offspring are good *colonizers*
--   No offspring is evolutionary stable
--   Variation is maintained
+::: incremental
+1.  Substantial contributions to conception and design
+2.  Drafting the article or revising it critically for important intellectual merit
+3.  Final approval of the version to be published
 :::
 
-::: {.column width="50%"}
-##### Competition is symmetric
+. . .
 
--   All offspring receive same resources (Weiner 1990)
--   Single offspring size is optimal and exclude other sizes (Geritz 1995; Gertiz et al. 1999)
+No justification of credit
+
+::: incremental
+-   Funding
+
+-   Data collection
+
+-   Research supervision
 :::
+
+::: notes
+-   Most widely accepted guidelines for authorship ethics
 :::
 
 ------------------------------------------------------------------------
 
-#### Important prediction of the Smith-Fretwell model (1974)
+#### International Committee of Medical Journals Editors (ICMJE)
 
--   Competition must be *strongly asymmetric* to overcome the colonization advantage of smaller offspring.
+*substantial contribution*?
 
--   **Degree of asymmetry** is crucial for the maintenance of offspring-size variation (Geritz et al. 1999).
-
-------------------------------------------------------------------------
-
-#### Do competitve asymmetries maintain offspring-size variation in natural populations?
-
-#### Do larger offspring always win contests over small ones?
-
--   **Larger offspring** have more energy for growth, survival, and reproduction
--   Higher energy reserves
--   Use proportionately less vs. smaller offspring (Leishman et al. 2000, Pattersen et al. 2015, 2017)
--   Resistance to starvation and low resource environments
--   Access more resources when feeding starts - but disproportionately more required for asymmetric competition (Marshall et al. 2018, Weiner 1990)
+::: incremental
+1.  Authorship credit should be reserved for individuals who helped draft or revise major portions of the manuscript
+2.  Must be able to take public responsibility for their contributions to the manuscript
+:::
 
 ------------------------------------------------------------------------
 
-#### Do competitve asymmetries maintain
+#### Ecological Society of America (ESA)
 
-#### Do larger offspring always win contests over small ones?
-
--   **Smaller offspring** require less resources
--   Tolerate resource depletion better than larger offspring (Persson 1985)?
-
-------------------------------------------------------------------------
-
-##### Study species
-
-*Begula neritina* is a bryozoan common to sessile marine communities worldwide.
-
-{{< video https://www.youtube.com/watch?v=FcvqEsLb23s width="50%" height="50%" start = "0" >}}
+::: incremental
+1.  Conceived experimental design
+2.  Performed methods
+3.  Analyzed and interpreted data
+4.  Wrote the manuscript
+:::
 
 ------------------------------------------------------------------------
 
-##### Experiment: Does offspring size generate intraspecific competitive asymmetries?
+Survey to first authors of peer reviewed journal articles in ecology, by [@logan2017]
 
-![](experiment.jpg){fig-align="center" width="60%" height="60%"}
+::: incremental
+1.  48% - evidence of non-compliance
+2.  78% - at least one author non-compliance with ICMJE
+3.  **Primary author** - Graduate student & post-doc more likely non-compliance than professors
+4.  Probability of non-compliance **increased** with number of co-authors
+:::
 
-------------------------------------------------------------------------
-
-##### Offspring sizes
-
-![](Fig1ab.jpg){fig-align="center" width="60%" height="60%"}
-
-------------------------------------------------------------------------
-
-##### Results
-
-![](Fig2A.jpg){fig-align="center" width="40%" height="40%"}
-
--   Focals from larger offspring survived better than those from smaller offspring ($X^{2} = 7.961$, $df = 1$, $P = 0.005$) - *no neighbor size effect*.
+::: notes
+The number of authors on ecological manuscripts has increased over the past several decades as a result of increases in collaboration among scientific research
+:::
 
 ------------------------------------------------------------------------
 
-##### Growth and Reproduction
+#### Solutions
 
--   Larger offspring $\to$ larger colonies ($F_{1,105} = 7.590$, $P = 0.007$) with *no neighbor size effect*.
+::: incremental
 
--   Larger offspring had higher probability of reproducing than smaller offspring ($X^{2} = 13.644$, $df = 1$, $P < 0.001$) with *no neighbor X size effect*.
+-   Byline system
 
--   Probability that focals reproduced was lower in presence of neighbors vs. neighbor-free ($X^{2} = 3.865$, $df = 1$, $P = 0.049$) & *consistent across focal sizes* (focal size x neighbor presence: $X^{2} = 0.37$, $df = 1$, $P = 0.541$).
+    -   Ranks and lists contributions of authors with written documents
 
-------------------------------------------------------------------------
+        -   Verify credit
+        -   Confirm contributions
+        
+::: {.fragment .fade-up}
 
-##### Offspring size of neighbors determined strength of interactions
+**Increase the responsibilities of editors and scientific organizations like research universities.**
 
-![](Fig2B.jpg){fig-align="center" width="40%" height="40%"}
+::: 
 
--   Reproductive output of focal colonies was affected by *their own original* offspring size & *original* size of neighbor ($F_{1,133} = 4.511$, $P = 0.036$).
+::: notes
 
-------------------------------------------------------------------------
+Elliot et al. (2017) proposed that research teams, such as a laboratory at a university, construct authorship policies with criteria that funding agencies require in grant proposals, although any system would be subject to the biases of people classifying author contribution (Logan et al. 2017).
 
-##### Neighbors facilitated smaller offspring but competed with larger offspring
-
--   **Isolation:** Offspring produced had 5X output vs. small offspring.
-
--   **Pairwise interactions:** *Original* size of focal offspring determined their own response to neighbors.
-
--   *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
-
--   Size neighbors determined the strength of these interactions.
+:::
 
 ------------------------------------------------------------------------
 
-##### Facilitation
+#### Conclusion
 
-**Increased with neighbor size**
+::: incremental
 
--   Largest neighbors were strongest facilitators of
 
--   *Meaning*... neighbors increased the fecundities of smaller offspring but diminished the fecundities of larger offspring.
 
--   Size neighbors determined the strength of these interactions.
+:::
 
-------------------------------------------------------------------------
 
-##### To review
 
--   Larger offspring: (1) survival advantage and (2) higher chance of reproducing
 
-##### However, in the presence of neighbors...
 
--   Smaller offspring that survived to reproduce had higher reproductive output vs. larger offspring
 
-------------------------------------------------------------------------
 
-##### Neighbors facilitated smaller offspring
 
-![](Fig2C.jpg){fig-align="center" width="30%" height="30%"}
 
--   **Composite fitness** = fecundity x probability of reproducing \[survival to maturity, whether survivors reproduced\]
 
--   Neighbors reduced probability that focals reproduced
 
--   $[+]$ effect on fecundities of smaller offspring outweighed the $[-]$ effect
 
--   **Negibores factilitated smaller offspring**
 
-------------------------------------------------------------------------
 
-##### Fecundity costs of making larger offspring
 
-![](Fig2D.jpg){fig-align="center" width="40%" height="40%"}
 
--   Mothers have higher fitness returns with many smaller vs. few larger *when offpsring interact*
 
-------------------------------------------------------------------------
-
-##### This study was the first to show that asymmetric facilitation can occur between offspring of different sizes.
-
--   Contradiction to game-theoretic models that strong competitive asymmetries favor larger offspring (Gertitz 1995; Gertitz et al. 1999)
-
--   Offspring size altered the strength and direction of pairwise interactions
-
--   Focal offspring size determined interactions: $+/-$
-
--   Neighbors facilitated smaller offspring but competed with larger offspring
-
-------------------------------------------------------------------------
-
-#### Discussion
-
--   Offspring size of neighbors determined strength of interaction
-
--   Neighbors from larger offspring were both **strongest** *facilitators* and *competitors*, respectively
-
--   **Asymmetric facilitation:** small offspring received benefits from larger offspring, but large offspring only experienced competition (i.e., reciprocal interactions are $+/-$) (Lin et al. 2012; Schob et al. 2014).
-
-------------------------------------------------------------------------
-
-##### Potential mechanism fo asymmetric facilitation
-
-#### High flow environments
-
--   Correlations between offspring size and other traits that determine resource supply and demand.
-
--   Physical structure of organisms can disrupt boundary currents and increase entrapment of resources that result in facilitation (Cameron et al. 2016; Cardinale et al. 2002).
-
--   Larger offspring $\to$ larger colonies that may disproportionately disrupt flow and increase resources.
-
-------------------------------------------------------------------------
-
-##### Benefit of resource amelioration
-
--   Smaller offspring $\to$ small colonies that are not efficient at acquiring resources (Cameron et al. 2016; Okamura 1984).
-
--   Larger offspring acquire resources more efficiently but receive less in presence of neighbors (i.e., competition) (Okamura 1984).
-
-------------------------------------------------------------------------
-
-#### How does asymmetric facilitation affect variation in offspring size?
-
--   Size-mediated facilitation generates *negative frequency-dependent* selection on offspring size (Day & Young 2004).
-
--   Large offspring performed best in isolation - advantageous when population densities are low and large phenotypes are rare.
-
--   Frequency of large offspring increases - performance will decrease due to intra-phenotpyic competition
-
--   Smaller offspring will first increase due to facilitation, then decline as large offspring become more abundant
-
-------------------------------------------------------------------------
-
-##### Game-theoretic models
-
--   Frequency-dependent consequences of offspring size (Geritz 1995; Gertiz et al. 1999).
-
--   Include facilitation and how resources vary with sizes and densities of offspring (via *asymmetric facilitation*) (Gertitz 1995; Geritz et al. 1999).
-
-------------------------------------------------------------------------
-
-##### Incorporate positive interactipns in stress-tolerant models
-
--   Facilitation and spatial heterogeneity in stressful environments (D'Andrea et al. 2013; Muller-Landau 2010)
-
--   Larger offspring are more stress-tolerant and competitively superior (Gertiz 1995) and win *more stressful* sites.
-
--   Smaller offspring are more abundant so win at *less stressful* sites
-
-#### This study provided evidence
-
--   Smaller offspring were advantageous when stress was reduced via *facilitation*
-
--   Larger offspring won when stress was high in *neighbor-free* conditions
